@@ -1,2 +1,2 @@
-# PARK-NaturalFrequenciesClassification
-Arana, L., Gross, J., &amp; Capilla, A. (2025). Brain natural frequencies as physiologically meaningful biomarkers for machine-learning detection of Parkinson’s disease. MedRxiv. https://doi.org/10.64898/2025.12.09.25341882
+PARK-NaturalFrequenciesClassification Matlab code used to perform the analysis and figures for the following pre-print: Arana, L., Gross, J., & Capilla, A. (2025). Brain natural frequencies as physiologically meaningful biomarkers for machine-learning detection of Parkinson’s disease. MedRxiv. https://doi.org/10.64898/2025.12.09.25341882
+The script names include the prefix PARK, followed by a number indicating the order in which the scripts should be run. The main folder and its subfolders (functions and mat_files) should be added to the Matlab path.
